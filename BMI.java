@@ -2,6 +2,7 @@ import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.net.ServerSocket;
 import java.net.Socket;
+// This is a comment
 
 public class client_new extends javax.swing.JFrame {
     static ServerSocket ser;
